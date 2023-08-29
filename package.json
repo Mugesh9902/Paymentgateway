@@ -1,0 +1,25 @@
+{
+  "name": "paymentgateway",
+  "version": "1.0.0",
+  "description": "Buy the Product with crypto",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mugesh9902/Paymentgateway.git"
+  },
+  "keywords": [
+    "paymentgateway"
+  ],
+  "author": "Mugesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mugesh9902/Paymentgateway/issues"
+  },
+  "homepage": "https://github.com/Mugesh9902/Paymentgateway#readme",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
